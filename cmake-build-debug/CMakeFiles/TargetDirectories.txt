@@ -1,0 +1,3 @@
+C:/Users/iifrmdn/CLionProjects/struktur-data-searching/cmake-build-debug/CMakeFiles/struktur_data_searching.dir
+C:/Users/iifrmdn/CLionProjects/struktur-data-searching/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/iifrmdn/CLionProjects/struktur-data-searching/cmake-build-debug/CMakeFiles/rebuild_cache.dir

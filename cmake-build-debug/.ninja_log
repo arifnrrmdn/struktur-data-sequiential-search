@@ -1,0 +1,18 @@
+# ninja log v5
+2	352	7023181349576600	build.ninja	61a67f2a17b3b365
+0	697	7023181357087224	CMakeFiles/struktur_data_searching.dir/main.c.obj	aea866ef69a28f27
+698	1659	7023181366667984	struktur_data_searching.exe	448c475c6bfee284
+2	499	7023183256977932	CMakeFiles/struktur_data_searching.dir/main.c.obj	aea866ef69a28f27
+500	623	7023183258188024	struktur_data_searching.exe	448c475c6bfee284
+3	149	7023191846192586	CMakeFiles/struktur_data_searching.dir/main.c.obj	aea866ef69a28f27
+149	361	7023191848132749	struktur_data_searching.exe	448c475c6bfee284
+3	102	7023192998461749	CMakeFiles/struktur_data_searching.dir/main.c.obj	aea866ef69a28f27
+103	214	7023192999541836	struktur_data_searching.exe	448c475c6bfee284
+3	136	7023193626583054	CMakeFiles/struktur_data_searching.dir/main.c.obj	aea866ef69a28f27
+137	247	7023193627643138	struktur_data_searching.exe	448c475c6bfee284
+2	93	7023194671933754	CMakeFiles/struktur_data_searching.dir/main.c.obj	aea866ef69a28f27
+94	206	7023194673033838	struktur_data_searching.exe	448c475c6bfee284
+2	86	7023195542769992	CMakeFiles/struktur_data_searching.dir/main.c.obj	aea866ef69a28f27
+86	195	7023195543829997	struktur_data_searching.exe	448c475c6bfee284
+3	92	7023196421151773	CMakeFiles/struktur_data_searching.dir/main.c.obj	aea866ef69a28f27
+93	204	7023196422231857	struktur_data_searching.exe	448c475c6bfee284
