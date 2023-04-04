@@ -8,3 +8,6 @@ Konsepnya, yaitu dengan melakukan perbandingan data satu-persatu secara beruruta
 ## Kekurangan
 - Kurang cepat untuk melakukan pencarian data dalam jumlah yang besar 
 - Beban komputasinya lebih besar
+
+## Contoh Screenshot
+https://github.com/arifnrrmdn/struktur-data-sequiential-search/blob/master/Screenshot%20(2).png
